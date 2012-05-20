@@ -15,6 +15,8 @@ To build:
 	mvn package
 3. executable jar file will be created in <root folder>/target
 
+If you've built the binary it will be located in the target sub-folder name clock-1.0.jar. A pre-packaged binary is also available in the bin sub-folder with the same name.
+
 To run:
 
 1. Use the following command:
