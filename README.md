@@ -3,6 +3,11 @@ conversational-clock
 
 A Java coding exercise to develop a clock that can tell the time in plain English.
 
+Prerequisites:
+
+1. JDK1.6
+2. Maven 2.x
+
 To build:
 
 1. Download all source.
